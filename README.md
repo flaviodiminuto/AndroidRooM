@@ -6,7 +6,7 @@ Para fim de teste na activitie o acesso ao Room foi permitido através do allowM
 A classe PessoaDao disponibiliza os metodos `salvar()`, `remover()` e `todos()`(retorna uma lista de todos os registros de pessoa)
 
 Para mais informações sobre a implementação deste exercício confira as etapas descritas no exercício em Kotlin que segue os mesmo passos.
-[Android Room com Kotlin](https://github.com/flaviodiminuto/AndroidRooMJava) 
+[Android Room com Kotlin](https://github.com/flaviodiminuto/AndroidRoomKotlin) 
 
 Exercício realizado seguindo principalmente as orientações do curso da Alura
 **Android Room: Introdução a persistência de dados com ORM**
